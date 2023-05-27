@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833243017255",
+    "project_id": "teach-and-learn-43735",
+    "storage_bucket": "teach-and-learn-43735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833243017255:android:ee513b07bd330611f99e02",
+        "android_client_info": {
+          "package_name": "com.example.managementofteachingandlearningresourcesfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833243017255-rrri0fc2tfvicp5cksbc9q81brhnmeaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtxsPJrOseJnMPCSNGwMqfpf8YZ_aXSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833243017255-rrri0fc2tfvicp5cksbc9q81brhnmeaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
