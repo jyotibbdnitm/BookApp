@@ -81,7 +81,7 @@ class DashboardAdminActivity : AppCompatActivity() {
                 adapterCategory = AdapterCategory(this@DashboardAdminActivity,categoryArrayList)
                 binding.categoriesRv.adapter = adapterCategory
             }
-
+//Database error
             override fun onCancelled(error: DatabaseError) {
 
             }
