@@ -67,7 +67,7 @@ class DashboardAdminActivity : AppCompatActivity() {
             startActivity(Intent(this,ProfileActivity::class.java))
         }
         }
-
+//hello
     private fun loadCategories() {
         categoryArrayList = ArrayList()
         val ref = FirebaseDatabase.getInstance().getReference("Categories")
