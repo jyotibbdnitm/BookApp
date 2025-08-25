@@ -1,7 +1,59 @@
+<h1 align="center">📚 BookApp</h1>
+<p align="center">
+  <i>An Educational Resource Management Application</i>  
+</p>
 
-<h4 align='center'> <i><h>Management of Teaching and Learning Resources</h4> 
- 
-## 
-<h6 >>This educational app is developed using the Kotlin programming language as the backend infrastructure and integrates Firebase. It provides separate dashboards for both administrators and users. The admin dashboard encompasses features such as user management, course management, and content creation. On the other hand, the user dashboard offers interactive learning modules, quizzes, and assignments.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-With the utilization of Firebase, the app seamlessly integrates data, ensures secure user authentication, and delivers real-time updates, thereby facilitating a seamless learning experience.</h6>
+---
+
+## 🚀 Overview  
+**BookApp** is a mobile application designed to **manage teaching and learning resources efficiently**.  
+It provides **separate dashboards for administrators and users**, offering an intuitive interface for **managing courses, users, and content**.  
+
+---
+
+## ✨ Features  
+✅ **Admin Dashboard**  
+- User management (add/update/remove)  
+- Course management  
+- Content creation & publishing  
+
+✅ **User Dashboard**  
+- Access assigned courses  
+- View and interact with content  
+- Real-time updates via Firebase  
+
+✅ **Other Highlights**  
+- Firebase integration for seamless data sync  
+- Secure & scalable backend in Java  
+- Clean and interactive UI  
+
+---
+
+## 🛠️ Tech Stack  
+- **Backend:** Java  
+- **Database:** Firebase  
+- **Frameworks/Tools:** Android Studio, Git  
+- **Version Control:** GitHub  
+
+---
+
+
+## 🚦 Getting Started  
+
+### 🔧 Prerequisites  
+- Android Studio installed  
+- Firebase account for database configuration  
+
+### ⚙️ Installation  
+```bash
+# Clone the repository
+git clone https://github.com/jyotibbdnitm/BookApp.git
+
+# Open in Android Studio and sync Gradle
